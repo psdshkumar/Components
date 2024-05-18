@@ -1,0 +1,92 @@
+
+.main{
+    background-color: rgb(36, 34, 34);
+    height: 300px;
+    margin-top: 10px;
+}
+
+.fox{
+    float: left;
+    color: aliceblue;
+    height:300px;
+    width: 250px;
+   
+    padding-left: 60px;
+    
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    
+    padding-left: 20px;
+    
+}
+.face2{
+    background-color: aliceblue;
+}
+
+
+.l1{
+    width: 20px;
+    height: 20px;
+    padding-left: 10px;
+    
+}
+
+.bar{
+    height: 80px;
+    width: 80px;
+}
+
+ul.a{
+    list-style-type:square;
+    text-align: left;
+    padding-left: 80px;
+
+}
+
+.last{
+    background-color:rgb(36, 34, 34) ;
+    height: 400px;
+}
+
+.BUTT{
+    float: right;
+    padding-right: 60px;
+    
+}
+
+.india{
+    height: 50px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.bu1{
+    width: 200px;
+    border: solid beige;
+    background-color: rgba(0, 0, 0, 0);
+    color: aliceblue;
+    
+}
+
+.bu2{
+    width: 200px;
+    border: solid beige;
+    background-color: rgba(0, 0, 0, 0.16);
+    color: aliceblue;
+    margin-top: 5px;
+    
+
+}
+
+.bu1:hover{
+    background-color: rgb(70, 79, 123);
+   
+}
+
+.bu2:hover{
+    background-color: rgb(70, 79, 123);
+    
+}
